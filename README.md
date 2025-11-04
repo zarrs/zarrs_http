@@ -4,7 +4,7 @@
 [![zarrs_http documentation](https://docs.rs/zarrs_http/badge.svg)](https://docs.rs/zarrs_http)
 ![msrv](https://img.shields.io/crates/msrv/zarrs_http)
 [![build](https://github.com/zarrs/zarrs_http/actions/workflows/ci.yml/badge.svg)](https://github.com/zarrs/zarrs_http/actions/workflows/ci.yml)
-[![codecov](https://codecov.io/gh/zarrs/zarrs_http/graph/badge.svg?component=zarrs_http)](https://codecov.io/gh/zarrs/zarrs_http)
+[![codecov](https://codecov.io/gh/zarrs/zarrs_http/graph/badge.svg)](https://codecov.io/gh/zarrs/zarrs_http)
 
 A synchronous `http` store for the [`zarrs`](https://crates.io/crates/zarrs) Rust crate.
 
