@@ -13,6 +13,10 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 ### Changed
 - Move to new repository: https://github.com/zarrs/zarrs_http
 
+### Fixed
+- Raise the MSRV from 1.77 to 1.82
+  - 1.82 has been the true MSRV since 0.3.0
+
 ## [0.3.0] - 2025-09-18
 
 ### Changed
